@@ -1,0 +1,7 @@
+GitHub in Practice
+
+A student team is asked to complete a mini project using GitHub, but they are restricted to using only the GitHub web interface—no command-line tools are allowed. During the project, the team creates multiple branches to work on different files, raises an issue when project documentation becomes unclear, and collaborates by reviewing and merging pull requests.
+
+Midway through the project, the team notices that changes from different branches could easily conflict and that poor documentation could slow down collaboration.
+
+As a student, analyze how GitHub’s features help prevent confusion and manage teamwork in this situation. Critically evaluate which GitHub features are most important for beginners and justify your reasoning with examples from the case.
